@@ -1,0 +1,17 @@
+// datatypes and variables
+
+class Main {
+    public static void main(String[] args) {
+        int a=57;
+        int b=357;
+        String j="joan";
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(j);
+
+    }
+}
+/*output
+57
+337
+joan*/
